@@ -20,11 +20,6 @@ von der Hand, man lernt voneinander und lässt sich inspirieren.
 
 Klar! Einfach melden und vorbeikommen.
 
-## Wo?
-
-Karlsruhe Rintheim - Gegenüber dem "Rintheimer Bahnhöfle".
-![Luftbild](assets/luftbild.png "Gegenüber Rintheimer Bahnhöfle")
-
 ## Kontakt
 
 Kontakt per E-Mail an <a href="mailto:garten@kerpe.net">garten@kerpe.net</a>.
